@@ -1,0 +1,3930 @@
+ {"data": [
+        {
+            "orderdate": "2021-08-22T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 1191.8679428100586,
+            "profit": 225.09480381011963,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-08-22T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 2055.5039920806885,
+            "profit": 640.766392827034,
+            "countcustomer": 6
+        },
+        {
+            "orderdate": "2021-08-22T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 11.51200008392334,
+            "profit": 1.817600041627884,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-08-22T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 1019.6639943122864,
+            "profit": 255.9651975631714,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2021-08-22T00:00:00.000Z",
+            "subcategory": "Bookcases",
+            "sale": 130.97999572753906,
+            "profit": -89.06639862060547,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-08-22T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 9150.279998779297,
+            "profit": 1803.0279998779297,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-08-22T00:00:00.000Z",
+            "subcategory": "Copiers",
+            "sale": 879.9840087890625,
+            "profit": 329.9939880371094,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-08-22T00:00:00.000Z",
+            "subcategory": "Envelopes",
+            "sale": 2.8959999084472656,
+            "profit": 0.977400004863739,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-08-22T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 386.780002117157,
+            "profit": 88.9580052793026,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2021-08-22T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 2724.85599899292,
+            "profit": 2522.2149996757507,
+            "countcustomer": 10
+        },
+        {
+            "orderdate": "2021-08-22T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 13303.063995361328,
+            "profit": 1679.0217933654785,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-08-22T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 434.3159942626953,
+            "profit": 33.63940107822418,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-08-22T00:00:00.000Z",
+            "subcategory": "Supplies",
+            "sale": 50.209999084472656,
+            "profit": 14.12470006942749,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-08-22T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 1137.75,
+            "profit": 250.30499267578125,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-08-29T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 1125.3800296783447,
+            "profit": 322.92759561538696,
+            "countcustomer": 6
+        },
+        {
+            "orderdate": "2021-08-29T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 1732.017984867096,
+            "profit": 666.0061950683594,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2021-08-29T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 173.46000003814697,
+            "profit": 75.5618000626564,
+            "countcustomer": 9
+        },
+        {
+            "orderdate": "2021-08-29T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 2607.869941711426,
+            "profit": 528.0175883769989,
+            "countcustomer": 13
+        },
+        {
+            "orderdate": "2021-08-29T00:00:00.000Z",
+            "subcategory": "Bookcases",
+            "sale": 1064.8400115966797,
+            "profit": -103.78400421142578,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-08-29T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 1653.5530090332031,
+            "profit": 151.07029747962952,
+            "countcustomer": 6
+        },
+        {
+            "orderdate": "2021-08-29T00:00:00.000Z",
+            "subcategory": "Envelopes",
+            "sale": 150,
+            "profit": 140,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-08-29T00:00:00.000Z",
+            "subcategory": "Fasteners",
+            "sale": 30.81999969482422,
+            "profit": 12.565400123596191,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-08-29T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 882.8200073242188,
+            "profit": 107.81160354614258,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2021-08-29T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 85.69600009918213,
+            "profit": 40.94740009307861,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-08-29T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 937.1960067749023,
+            "profit": 417.97670245170593,
+            "countcustomer": 9
+        },
+        {
+            "orderdate": "2021-08-29T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 939.728018283844,
+            "profit": 107.006502866745,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2021-08-29T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 1283.7700023651123,
+            "profit": 182.8914041519165,
+            "countcustomer": 7
+        },
+        {
+            "orderdate": "2021-08-29T00:00:00.000Z",
+            "subcategory": "Supplies",
+            "sale": 76.20800018310547,
+            "profit": -19.301599979400635,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-08-29T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 3320.7120208740234,
+            "profit": 35.62859749794006,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2021-09-05T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 3394.6560010910034,
+            "profit": 1743.312402009964,
+            "countcustomer": 11
+        },
+        {
+            "orderdate": "2021-09-05T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 7244.480000734329,
+            "profit": 3548.8690007925034,
+            "countcustomer": 7
+        },
+        {
+            "orderdate": "2021-09-05T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 195.2999987602234,
+            "profit": 43.98080039024353,
+            "countcustomer": 6
+        },
+        {
+            "orderdate": "2021-09-05T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 3876.8648974895477,
+            "profit": -8.118410110473633,
+            "countcustomer": 8
+        },
+        {
+            "orderdate": "2021-09-05T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 2850.7579498291016,
+            "profit": 182.50599479675293,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2021-09-05T00:00:00.000Z",
+            "subcategory": "Copiers",
+            "sale": 319.9840087890625,
+            "profit": 107.99459838867188,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-09-05T00:00:00.000Z",
+            "subcategory": "Envelopes",
+            "sale": 44.555999755859375,
+            "profit": 20.7362003326416,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-09-05T00:00:00.000Z",
+            "subcategory": "Fasteners",
+            "sale": 70.64799785614014,
+            "profit": 25.461999893188477,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-09-05T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 904.972002029419,
+            "profit": 346.7119998931885,
+            "countcustomer": 10
+        },
+        {
+            "orderdate": "2021-09-05T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 266.8079996109009,
+            "profit": 219.2958996295929,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2021-09-05T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 886.6480026245117,
+            "profit": 361.1574058532715,
+            "countcustomer": 19
+        },
+        {
+            "orderdate": "2021-09-05T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 1842.984016418457,
+            "profit": -168.20830249786377,
+            "countcustomer": 8
+        },
+        {
+            "orderdate": "2021-09-05T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 1833.3540077209473,
+            "profit": 177.0997953414917,
+            "countcustomer": 9
+        },
+        {
+            "orderdate": "2021-09-05T00:00:00.000Z",
+            "subcategory": "Supplies",
+            "sale": 8.831999778747559,
+            "profit": -1.9872000217437744,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-09-05T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 512.1900024414062,
+            "profit": -65.85299682617188,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-09-12T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 1565.1939659118652,
+            "profit": 384.50770592689514,
+            "countcustomer": 8
+        },
+        {
+            "orderdate": "2021-09-12T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 1172.6039962768555,
+            "profit": 11.1365966796875,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2021-09-12T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 393.06400299072266,
+            "profit": 123.13510125875473,
+            "countcustomer": 9
+        },
+        {
+            "orderdate": "2021-09-12T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 5328.8680057525635,
+            "profit": -5685.314502179623,
+            "countcustomer": 15
+        },
+        {
+            "orderdate": "2021-09-12T00:00:00.000Z",
+            "subcategory": "Bookcases",
+            "sale": 1292.93994140625,
+            "profit": 77.57640075683594,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-09-12T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 2661.195976257324,
+            "profit": 198.0285930633545,
+            "countcustomer": 7
+        },
+        {
+            "orderdate": "2021-09-12T00:00:00.000Z",
+            "subcategory": "Envelopes",
+            "sale": 114.8479995727539,
+            "profit": 35.88999938964844,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-09-12T00:00:00.000Z",
+            "subcategory": "Fasteners",
+            "sale": 17.899999618530273,
+            "profit": 8.770999908447266,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-09-12T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 1587.8880214691162,
+            "profit": -677.8617975711823,
+            "countcustomer": 7
+        },
+        {
+            "orderdate": "2021-09-12T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 71.10000038146973,
+            "profit": 33.13800096511841,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-09-12T00:00:00.000Z",
+            "subcategory": "Machines",
+            "sale": 733.7549982070923,
+            "profit": 38.74250602722168,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-09-12T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 1347.2520160675049,
+            "profit": 639.270599603653,
+            "countcustomer": 19
+        },
+        {
+            "orderdate": "2021-09-12T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 10368.754005432129,
+            "profit": 1673.984079360962,
+            "countcustomer": 7
+        },
+        {
+            "orderdate": "2021-09-12T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 1004.9339904785156,
+            "profit": 126.3575975894928,
+            "countcustomer": 7
+        },
+        {
+            "orderdate": "2021-09-12T00:00:00.000Z",
+            "subcategory": "Supplies",
+            "sale": 34.47999954223633,
+            "profit": 9.999199867248535,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-09-12T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 300.90399169921875,
+            "profit": 11.283900260925293,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-09-19T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 2938.6480293273926,
+            "profit": 791.1674989461899,
+            "countcustomer": 14
+        },
+        {
+            "orderdate": "2021-09-19T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 314.6160125732422,
+            "profit": -125.14319801330566,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-09-19T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 154.84000205993652,
+            "profit": 46.98379969596863,
+            "countcustomer": 8
+        },
+        {
+            "orderdate": "2021-09-19T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 962.291018486023,
+            "profit": 327.57490622997284,
+            "countcustomer": 14
+        },
+        {
+            "orderdate": "2021-09-19T00:00:00.000Z",
+            "subcategory": "Bookcases",
+            "sale": 495.13600158691406,
+            "profit": -327.8895950317383,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-09-19T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 7485.343811035156,
+            "profit": 1288.8076791763306,
+            "countcustomer": 8
+        },
+        {
+            "orderdate": "2021-09-19T00:00:00.000Z",
+            "subcategory": "Envelopes",
+            "sale": 52.19200038909912,
+            "profit": 19.086999893188477,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-09-19T00:00:00.000Z",
+            "subcategory": "Fasteners",
+            "sale": 4.360000133514404,
+            "profit": 1.787600040435791,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-09-19T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 651.0860061645508,
+            "profit": 157.29350185394287,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2021-09-19T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 333.4699993133545,
+            "profit": 280.86560010910034,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-09-19T00:00:00.000Z",
+            "subcategory": "Machines",
+            "sale": 506.2799987792969,
+            "profit": 177.197998046875,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-09-19T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 728.8079957962036,
+            "profit": 307.29299807548523,
+            "countcustomer": 13
+        },
+        {
+            "orderdate": "2021-09-19T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 10532.954048156738,
+            "profit": 1599.0118036270142,
+            "countcustomer": 13
+        },
+        {
+            "orderdate": "2021-09-19T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 414.18400859832764,
+            "profit": 103.85119938850403,
+            "countcustomer": 8
+        },
+        {
+            "orderdate": "2021-09-19T00:00:00.000Z",
+            "subcategory": "Supplies",
+            "sale": 220.15599536895752,
+            "profit": -34.61279916763306,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-09-26T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 559.0899925231934,
+            "profit": 137.3444994688034,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2021-09-26T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 590.6900098323822,
+            "profit": 18.283401250839233,
+            "countcustomer": 6
+        },
+        {
+            "orderdate": "2021-09-26T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 196.56799411773682,
+            "profit": 37.05169987678528,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-09-26T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 2035.5350329875946,
+            "profit": -703.3823911547661,
+            "countcustomer": 13
+        },
+        {
+            "orderdate": "2021-09-26T00:00:00.000Z",
+            "subcategory": "Bookcases",
+            "sale": 4847.764007568359,
+            "profit": -1684.7164001464844,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-09-26T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 664.2139854431152,
+            "profit": -63.59459972381592,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2021-09-26T00:00:00.000Z",
+            "subcategory": "Envelopes",
+            "sale": 103.19999742507935,
+            "profit": 47.94480037689209,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-09-26T00:00:00.000Z",
+            "subcategory": "Fasteners",
+            "sale": 43.9399995803833,
+            "profit": 20.912399291992188,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-09-26T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 743.0979986190796,
+            "profit": 351.8476998806,
+            "countcustomer": 12
+        },
+        {
+            "orderdate": "2021-09-26T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 20.663999557495117,
+            "profit": 6.974100112915039,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-09-26T00:00:00.000Z",
+            "subcategory": "Machines",
+            "sale": 2074.050018310547,
+            "profit": 799.5019989013672,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-09-26T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 1405.4360055923462,
+            "profit": 1026.805300951004,
+            "countcustomer": 13
+        },
+        {
+            "orderdate": "2021-09-26T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 8130.773994445801,
+            "profit": 4197.021200180054,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2021-09-26T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 2017.4120178222656,
+            "profit": 114.05340385437012,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2021-09-26T00:00:00.000Z",
+            "subcategory": "Supplies",
+            "sale": 136.37200164794922,
+            "profit": 32.61259889602661,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-09-26T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 2658.335968017578,
+            "profit": -1192.1046295166016,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-10-03T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 8327.624034881592,
+            "profit": 358.22739934921265,
+            "countcustomer": 7
+        },
+        {
+            "orderdate": "2021-10-03T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 261.55999660491943,
+            "profit": 71.30160057544708,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-10-03T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 482.90999698638916,
+            "profit": 214.37900030612946,
+            "countcustomer": 6
+        },
+        {
+            "orderdate": "2021-10-03T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 365.6059970855713,
+            "profit": -348.8148021697998,
+            "countcustomer": 8
+        },
+        {
+            "orderdate": "2021-10-03T00:00:00.000Z",
+            "subcategory": "Bookcases",
+            "sale": 314.35198974609375,
+            "profit": -15.717599868774414,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-10-03T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 1056.3720092773438,
+            "profit": -86.80120205879211,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2021-10-03T00:00:00.000Z",
+            "subcategory": "Fasteners",
+            "sale": 33.83600044250488,
+            "profit": 12.77150011062622,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-10-03T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 3094.6479988098145,
+            "profit": 229.49840021133423,
+            "countcustomer": 7
+        },
+        {
+            "orderdate": "2021-10-03T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 340,
+            "profit": 280,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-10-03T00:00:00.000Z",
+            "subcategory": "Machines",
+            "sale": 5199.9599609375,
+            "profit": 1351.9896240234375,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-10-03T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 4947.841997623444,
+            "profit": 3896.840499639511,
+            "countcustomer": 12
+        },
+        {
+            "orderdate": "2021-10-03T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 630.0320086479187,
+            "profit": 72.89080238342285,
+            "countcustomer": 6
+        },
+        {
+            "orderdate": "2021-10-03T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 6427.45799446106,
+            "profit": 147.96610042452812,
+            "countcustomer": 8
+        },
+        {
+            "orderdate": "2021-10-03T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 9082.404006958008,
+            "profit": -7037.3760986328125,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2021-10-10T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 2183.5220053195953,
+            "profit": 418.1064918935299,
+            "countcustomer": 9
+        },
+        {
+            "orderdate": "2021-10-10T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 904.9000244140625,
+            "profit": 253.3719940185547,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-10-10T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 1287.5600004196167,
+            "profit": 565.7924001216888,
+            "countcustomer": 6
+        },
+        {
+            "orderdate": "2021-10-10T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 5703.307955741882,
+            "profit": 2022.1661911010742,
+            "countcustomer": 7
+        },
+        {
+            "orderdate": "2021-10-10T00:00:00.000Z",
+            "subcategory": "Bookcases",
+            "sale": 2154.89990234375,
+            "profit": 129.29400634765625,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-10-10T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 239.35800170898438,
+            "profit": -47.87160110473633,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-10-10T00:00:00.000Z",
+            "subcategory": "Fasteners",
+            "sale": 87.89999961853027,
+            "profit": 88.77099990844727,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-10-10T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 2033.6759986877441,
+            "profit": 1439.9122004508972,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2021-10-10T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 191.49999332427979,
+            "profit": 88.64260149002075,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2021-10-10T00:00:00.000Z",
+            "subcategory": "Machines",
+            "sale": 599.9849853515625,
+            "profit": -479.9880065917969,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-10-10T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 1410.2539982795715,
+            "profit": 896.141101360321,
+            "countcustomer": 11
+        },
+        {
+            "orderdate": "2021-10-10T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 401.5280055999756,
+            "profit": 19.719799518585205,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-10-10T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 348.55999755859375,
+            "profit": 104.56800079345703,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-10-10T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 4563.362060546875,
+            "profit": -693.4192872047424,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2021-10-17T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 55.20000076293945,
+            "profit": -2.069999933242798,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-10-17T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 1157.7799937725067,
+            "profit": -4905.5564006567,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2021-10-17T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 93.01599979400635,
+            "profit": 22.952800154685974,
+            "countcustomer": 6
+        },
+        {
+            "orderdate": "2021-10-17T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 1993.6509938240051,
+            "profit": -1424.1252117156982,
+            "countcustomer": 14
+        },
+        {
+            "orderdate": "2021-10-17T00:00:00.000Z",
+            "subcategory": "Bookcases",
+            "sale": 328.3992004394531,
+            "profit": -91.75859832763672,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-10-17T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 579.135986328125,
+            "profit": -28.95680046081543,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-10-17T00:00:00.000Z",
+            "subcategory": "Copiers",
+            "sale": 11199.9677734375,
+            "profit": 3919.98876953125,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-10-17T00:00:00.000Z",
+            "subcategory": "Envelopes",
+            "sale": 104.54000186920166,
+            "profit": 44.14379930496216,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-10-17T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 569.2559947967529,
+            "profit": 230.70840120315552,
+            "countcustomer": 6
+        },
+        {
+            "orderdate": "2021-10-17T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 59.79999923706055,
+            "profit": 28.94949984550476,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-10-17T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 191.9759979248047,
+            "profit": 81.90460169315338,
+            "countcustomer": 8
+        },
+        {
+            "orderdate": "2021-10-17T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 3743.894129753113,
+            "profit": 632.4465301632881,
+            "countcustomer": 8
+        },
+        {
+            "orderdate": "2021-10-17T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 682.089982509613,
+            "profit": -39.024599730968475,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2021-10-17T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 1420.4880027770996,
+            "profit": -277.9675033092499,
+            "countcustomer": 6
+        },
+        {
+            "orderdate": "2021-10-24T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 50.17600059509277,
+            "profit": -5.9720001220703125,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-10-24T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 990,
+            "profit": 240,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-10-24T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 173.63200044631958,
+            "profit": 102.78039991855621,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-10-24T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 350.3270049095154,
+            "profit": -416.81029891967773,
+            "countcustomer": 6
+        },
+        {
+            "orderdate": "2021-10-24T00:00:00.000Z",
+            "subcategory": "Bookcases",
+            "sale": 756.6449737548828,
+            "profit": 44.54520034790039,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-10-24T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 745.779972076416,
+            "profit": -19.96939992904663,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-10-24T00:00:00.000Z",
+            "subcategory": "Envelopes",
+            "sale": 945.4000015258789,
+            "profit": 702.7449984550476,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2021-10-24T00:00:00.000Z",
+            "subcategory": "Fasteners",
+            "sale": 11.680000305175781,
+            "profit": 5.25600004196167,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-10-24T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 114.14400291442871,
+            "profit": -12.910400390625,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-10-24T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 236.69000053405762,
+            "profit": 149.68860006332397,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2021-10-24T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 173.52000045776367,
+            "profit": 61.08539938926697,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2021-10-24T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 7155.1759967803955,
+            "profit": -3109.5822994709015,
+            "countcustomer": 6
+        },
+        {
+            "orderdate": "2021-10-24T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 362.9720115661621,
+            "profit": -15.57159948348999,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2021-10-24T00:00:00.000Z",
+            "subcategory": "Supplies",
+            "sale": 35.060001373291016,
+            "profit": 10.517999649047852,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-10-24T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 11794.837036132812,
+            "profit": -1479.293405532837,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2021-10-31T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 7307.291912078857,
+            "profit": 2371.797100484371,
+            "countcustomer": 10
+        },
+        {
+            "orderdate": "2021-10-31T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 771.7200222015381,
+            "profit": 109.65310180187225,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2021-10-31T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 235.90800046920776,
+            "profit": 50.09280049800873,
+            "countcustomer": 9
+        },
+        {
+            "orderdate": "2021-10-31T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 872.9129949808121,
+            "profit": 205.8549975156784,
+            "countcustomer": 14
+        },
+        {
+            "orderdate": "2021-10-31T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 1836.3559646606445,
+            "profit": 177.47559928894043,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2021-10-31T00:00:00.000Z",
+            "subcategory": "Copiers",
+            "sale": 959.9840087890625,
+            "profit": 311.99481201171875,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-10-31T00:00:00.000Z",
+            "subcategory": "Envelopes",
+            "sale": 100.66800165176392,
+            "profit": 46.99640107154846,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2021-10-31T00:00:00.000Z",
+            "subcategory": "Fasteners",
+            "sale": 23.81999969482422,
+            "profit": 9.287399888038635,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-10-31T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 229.9339997768402,
+            "profit": 53.57540154457092,
+            "countcustomer": 6
+        },
+        {
+            "orderdate": "2021-10-31T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 61.268001079559326,
+            "profit": 28.469199538230896,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-10-31T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 1496.6659936904907,
+            "profit": 772.7055969238281,
+            "countcustomer": 24
+        },
+        {
+            "orderdate": "2021-10-31T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 5665.9799880981445,
+            "profit": 445.1490967273712,
+            "countcustomer": 8
+        },
+        {
+            "orderdate": "2021-10-31T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 1089.26997756958,
+            "profit": -52.71590042114258,
+            "countcustomer": 7
+        },
+        {
+            "orderdate": "2021-10-31T00:00:00.000Z",
+            "subcategory": "Supplies",
+            "sale": 384.5920104980469,
+            "profit": -81.72579956054688,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-10-31T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 10562.29605102539,
+            "profit": 625.2862071990967,
+            "countcustomer": 7
+        },
+        {
+            "orderdate": "2021-11-07T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 2452.999981880188,
+            "profit": 780.083095908165,
+            "countcustomer": 15
+        },
+        {
+            "orderdate": "2021-11-07T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 1746.8699884414673,
+            "profit": 300.72889709472656,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2021-11-07T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 310.83400225639343,
+            "profit": 88.45410043001175,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2021-11-07T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 2166.0920095443726,
+            "profit": -512.9376888275146,
+            "countcustomer": 14
+        },
+        {
+            "orderdate": "2021-11-07T00:00:00.000Z",
+            "subcategory": "Bookcases",
+            "sale": 205.99920654296875,
+            "profit": -27.26460075378418,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-11-07T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 4252.3541259765625,
+            "profit": 177.3603069782257,
+            "countcustomer": 7
+        },
+        {
+            "orderdate": "2021-11-07T00:00:00.000Z",
+            "subcategory": "Envelopes",
+            "sale": 12.223999977111816,
+            "profit": 4.43120002746582,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-11-07T00:00:00.000Z",
+            "subcategory": "Fasteners",
+            "sale": 64.15999794006348,
+            "profit": 30.702399253845215,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-11-07T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 1078.485996246338,
+            "profit": -260.36851501464844,
+            "countcustomer": 8
+        },
+        {
+            "orderdate": "2021-11-07T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 18.600000381469727,
+            "profit": 8.815200328826904,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-11-07T00:00:00.000Z",
+            "subcategory": "Machines",
+            "sale": 652.9949951171875,
+            "profit": -935.95947265625,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-11-07T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 110.96000099182129,
+            "profit": 43.221999406814575,
+            "countcustomer": 7
+        },
+        {
+            "orderdate": "2021-11-07T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 3530.1920261383057,
+            "profit": 400.06950014829636,
+            "countcustomer": 11
+        },
+        {
+            "orderdate": "2021-11-07T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 4993.512055397034,
+            "profit": 200.69628858566284,
+            "countcustomer": 11
+        },
+        {
+            "orderdate": "2021-11-07T00:00:00.000Z",
+            "subcategory": "Supplies",
+            "sale": 53.43000030517578,
+            "profit": 14.729700088500977,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-11-07T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 350.35198974609375,
+            "profit": -140.1407928466797,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-11-14T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 18061.992010831833,
+            "profit": 14512.86720097065,
+            "countcustomer": 8
+        },
+        {
+            "orderdate": "2021-11-14T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 6708.835990905762,
+            "profit": 3447.080997467041,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2021-11-14T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 437.5419969558716,
+            "profit": 96.24059987068176,
+            "countcustomer": 11
+        },
+        {
+            "orderdate": "2021-11-14T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 1821.3769861459732,
+            "profit": -2393.6315826177597,
+            "countcustomer": 11
+        },
+        {
+            "orderdate": "2021-11-14T00:00:00.000Z",
+            "subcategory": "Bookcases",
+            "sale": 511.70079040527344,
+            "profit": -39.754401206970215,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-11-14T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 1350.302017211914,
+            "profit": -203.5840015411377,
+            "countcustomer": 6
+        },
+        {
+            "orderdate": "2021-11-14T00:00:00.000Z",
+            "subcategory": "Copiers",
+            "sale": 11399.951721191406,
+            "profit": 5114.984336853027,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-11-14T00:00:00.000Z",
+            "subcategory": "Envelopes",
+            "sale": 577.6039991378784,
+            "profit": 516.7011995315552,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2021-11-14T00:00:00.000Z",
+            "subcategory": "Fasteners",
+            "sale": 25.059999465942383,
+            "profit": 12.529999732971191,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-11-14T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 2161.2599835395813,
+            "profit": 562.0237939357758,
+            "countcustomer": 14
+        },
+        {
+            "orderdate": "2021-11-14T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 7.380000114440918,
+            "profit": 3.468600034713745,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-11-14T00:00:00.000Z",
+            "subcategory": "Machines",
+            "sale": 1972.4159507751465,
+            "profit": 240.1196994781494,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-11-14T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 860.5799961090088,
+            "profit": 406.95570516586304,
+            "countcustomer": 10
+        },
+        {
+            "orderdate": "2021-11-14T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 5718.829963684082,
+            "profit": 2447.7466855049133,
+            "countcustomer": 8
+        },
+        {
+            "orderdate": "2021-11-14T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 2754.080051422119,
+            "profit": 500.1807054877281,
+            "countcustomer": 9
+        },
+        {
+            "orderdate": "2021-11-14T00:00:00.000Z",
+            "subcategory": "Supplies",
+            "sale": 2.944000005722046,
+            "profit": -0.6624000072479248,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-11-14T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 798.0900268554688,
+            "profit": -101.1353988647461,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-11-21T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 223.5800018310547,
+            "profit": 87.19619750976562,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-11-21T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 457.94399642944336,
+            "profit": -149.48670196533203,
+            "countcustomer": 7
+        },
+        {
+            "orderdate": "2021-11-21T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 316.77000093460083,
+            "profit": 132.09019994735718,
+            "countcustomer": 10
+        },
+        {
+            "orderdate": "2021-11-21T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 1437.0050077438354,
+            "profit": 459.7137989997864,
+            "countcustomer": 14
+        },
+        {
+            "orderdate": "2021-11-21T00:00:00.000Z",
+            "subcategory": "Bookcases",
+            "sale": 1404.9869689941406,
+            "profit": -127.12520217895508,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-11-21T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 2384.489990234375,
+            "profit": 384.3664035797119,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-11-21T00:00:00.000Z",
+            "subcategory": "Envelopes",
+            "sale": 232.8080062866211,
+            "profit": 103.25920104980469,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-11-21T00:00:00.000Z",
+            "subcategory": "Fasteners",
+            "sale": 9.020000457763672,
+            "profit": 3.5178000926971436,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-11-21T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 5439.532002925873,
+            "profit": 1528.2149987220764,
+            "countcustomer": 7
+        },
+        {
+            "orderdate": "2021-11-21T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 11.520000457763672,
+            "profit": 4.176000118255615,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-11-21T00:00:00.000Z",
+            "subcategory": "Machines",
+            "sale": 1039.991943359375,
+            "profit": 103.99919891357422,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-11-21T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 677.0820050239563,
+            "profit": 278.35140204429626,
+            "countcustomer": 11
+        },
+        {
+            "orderdate": "2021-11-21T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 4649.961986541748,
+            "profit": 997.6240000724792,
+            "countcustomer": 12
+        },
+        {
+            "orderdate": "2021-11-21T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 2501.2679710388184,
+            "profit": 363.8623962402344,
+            "countcustomer": 7
+        },
+        {
+            "orderdate": "2021-11-21T00:00:00.000Z",
+            "subcategory": "Supplies",
+            "sale": 4.360000133514404,
+            "profit": 0.17440000176429749,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-11-21T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 820.8929901123047,
+            "profit": 43.35569930076599,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2021-11-28T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 1505.7500267028809,
+            "profit": 247.79459762573242,
+            "countcustomer": 8
+        },
+        {
+            "orderdate": "2021-11-28T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 1075.4819602966309,
+            "profit": 190.08599758148193,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2021-11-28T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 339.77999460697174,
+            "profit": 67.99529820680618,
+            "countcustomer": 10
+        },
+        {
+            "orderdate": "2021-11-28T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 1026.521026134491,
+            "profit": -527.8984990119934,
+            "countcustomer": 13
+        },
+        {
+            "orderdate": "2021-11-28T00:00:00.000Z",
+            "subcategory": "Bookcases",
+            "sale": 384.31201171875,
+            "profit": -322.35961532592773,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-11-28T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 9784.232131958008,
+            "profit": 1228.653394460678,
+            "countcustomer": 13
+        },
+        {
+            "orderdate": "2021-11-28T00:00:00.000Z",
+            "subcategory": "Envelopes",
+            "sale": 184.63999938964844,
+            "profit": 71.31149673461914,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-11-28T00:00:00.000Z",
+            "subcategory": "Fasteners",
+            "sale": 2.368000030517578,
+            "profit": 0.8288000226020813,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-11-28T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 3312.2959747314453,
+            "profit": 714.4685953855515,
+            "countcustomer": 18
+        },
+        {
+            "orderdate": "2021-11-28T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 81.73600149154663,
+            "profit": 36.13669955730438,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-11-28T00:00:00.000Z",
+            "subcategory": "Machines",
+            "sale": 649,
+            "profit": -272.5799865722656,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-11-28T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 829.4960012435913,
+            "profit": 492.68299746513367,
+            "countcustomer": 14
+        },
+        {
+            "orderdate": "2021-11-28T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 7525.7399978637695,
+            "profit": 2204.544659614563,
+            "countcustomer": 14
+        },
+        {
+            "orderdate": "2021-11-28T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 1907.5379791259766,
+            "profit": 172.28539967536926,
+            "countcustomer": 8
+        },
+        {
+            "orderdate": "2021-11-28T00:00:00.000Z",
+            "subcategory": "Supplies",
+            "sale": 51.67999982833862,
+            "profit": 6.089399963617325,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-11-28T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 2303.6420288085938,
+            "profit": -564.5501861572266,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-12-05T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 2909.815963745117,
+            "profit": 1605.1544847488403,
+            "countcustomer": 10
+        },
+        {
+            "orderdate": "2021-12-05T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 2609.6020143032074,
+            "profit": 661.5453968048096,
+            "countcustomer": 10
+        },
+        {
+            "orderdate": "2021-12-05T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 93.55600023269653,
+            "profit": 25.999599397182465,
+            "countcustomer": 6
+        },
+        {
+            "orderdate": "2021-12-05T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 3312.2919747829437,
+            "profit": -2358.7733101844788,
+            "countcustomer": 20
+        },
+        {
+            "orderdate": "2021-12-05T00:00:00.000Z",
+            "subcategory": "Bookcases",
+            "sale": 5748.177017211914,
+            "profit": -542.9094009399414,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-12-05T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 800.7919921875,
+            "profit": -85.5221996307373,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-12-05T00:00:00.000Z",
+            "subcategory": "Copiers",
+            "sale": 1399.97998046875,
+            "profit": 629.9910278320312,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-12-05T00:00:00.000Z",
+            "subcategory": "Envelopes",
+            "sale": 18.139999866485596,
+            "profit": 8.598599910736084,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-12-05T00:00:00.000Z",
+            "subcategory": "Fasteners",
+            "sale": 10.092000007629395,
+            "profit": 3.4013999700546265,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-12-05T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 972.2639846801758,
+            "profit": -204.505597114563,
+            "countcustomer": 11
+        },
+        {
+            "orderdate": "2021-12-05T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 387.3400011062622,
+            "profit": 340.4761004447937,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2021-12-05T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 3338.199995994568,
+            "profit": 2347.6399908065796,
+            "countcustomer": 16
+        },
+        {
+            "orderdate": "2021-12-05T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 7189.372007369995,
+            "profit": 944.067502617836,
+            "countcustomer": 9
+        },
+        {
+            "orderdate": "2021-12-05T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 1016.0099840164185,
+            "profit": 222.27369439601898,
+            "countcustomer": 6
+        },
+        {
+            "orderdate": "2021-12-05T00:00:00.000Z",
+            "subcategory": "Supplies",
+            "sale": 240,
+            "profit": 40,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-12-05T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 2708.2030029296875,
+            "profit": -1837.5918006896973,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-12-12T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 841.0299949645996,
+            "profit": 190.33679676055908,
+            "countcustomer": 7
+        },
+        {
+            "orderdate": "2021-12-12T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 1994.431999206543,
+            "profit": 1049.3071994781494,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-12-12T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 519.14000415802,
+            "profit": 181.92719995975494,
+            "countcustomer": 9
+        },
+        {
+            "orderdate": "2021-12-12T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 1591.4919986724854,
+            "profit": 1251.1473999023438,
+            "countcustomer": 9
+        },
+        {
+            "orderdate": "2021-12-12T00:00:00.000Z",
+            "subcategory": "Bookcases",
+            "sale": 287.97601318359375,
+            "profit": 7.199399948120117,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-12-12T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 8403.651992797852,
+            "profit": 176.03439664840698,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2021-12-12T00:00:00.000Z",
+            "subcategory": "Copiers",
+            "sale": 1199.97998046875,
+            "profit": 467.9921875,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-12-12T00:00:00.000Z",
+            "subcategory": "Envelopes",
+            "sale": 43.70000076293945,
+            "profit": 20.538999557495117,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-12-12T00:00:00.000Z",
+            "subcategory": "Fasteners",
+            "sale": 22.104000568389893,
+            "profit": 9.87030017375946,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-12-12T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 2368.0419793128967,
+            "profit": 751.9647859334946,
+            "countcustomer": 10
+        },
+        {
+            "orderdate": "2021-12-12T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 53.04000186920166,
+            "profit": 26.433600902557373,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-12-12T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 252.91000270843506,
+            "profit": 106.8556981086731,
+            "countcustomer": 8
+        },
+        {
+            "orderdate": "2021-12-12T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 3789.4560012817383,
+            "profit": 1634.513198852539,
+            "countcustomer": 6
+        },
+        {
+            "orderdate": "2021-12-12T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 3279.1700077056885,
+            "profit": -348.19170212745667,
+            "countcustomer": 9
+        },
+        {
+            "orderdate": "2021-12-12T00:00:00.000Z",
+            "subcategory": "Supplies",
+            "sale": 39.689998626708984,
+            "profit": 10.3193998336792,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-12-12T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 6031.5699462890625,
+            "profit": 1209.8429985046387,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-12-19T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 5998.4819984436035,
+            "profit": 2267.7634024620056,
+            "countcustomer": 10
+        },
+        {
+            "orderdate": "2021-12-19T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 88.552001953125,
+            "profit": -58.45459747314453,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-12-19T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 5351.305999755859,
+            "profit": 3047.429100036621,
+            "countcustomer": 9
+        },
+        {
+            "orderdate": "2021-12-19T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 1415.6560068130493,
+            "profit": -336.34710085392,
+            "countcustomer": 18
+        },
+        {
+            "orderdate": "2021-12-19T00:00:00.000Z",
+            "subcategory": "Bookcases",
+            "sale": 322.9979934692383,
+            "profit": -132.80699920654297,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-12-19T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 3380.1199493408203,
+            "profit": 738.3013000488281,
+            "countcustomer": 6
+        },
+        {
+            "orderdate": "2021-12-19T00:00:00.000Z",
+            "subcategory": "Copiers",
+            "sale": 2879.951904296875,
+            "profit": 1007.9832153320312,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-12-19T00:00:00.000Z",
+            "subcategory": "Envelopes",
+            "sale": 182.94000244140625,
+            "profit": 85.98179626464844,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-12-19T00:00:00.000Z",
+            "subcategory": "Fasteners",
+            "sale": 152.93200016021729,
+            "profit": -26.029000401496887,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-12-19T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 558.867998123169,
+            "profit": 132.71750020980835,
+            "countcustomer": 9
+        },
+        {
+            "orderdate": "2021-12-19T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 828.4500007629395,
+            "profit": 648.6715002059937,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-12-19T00:00:00.000Z",
+            "subcategory": "Machines",
+            "sale": 599.9700012207031,
+            "profit": 232.78500080108643,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-12-19T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 2926.3239636421204,
+            "profit": 1924.8075902462006,
+            "countcustomer": 14
+        },
+        {
+            "orderdate": "2021-12-19T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 1282.448013305664,
+            "profit": 273.21349477767944,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2021-12-19T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 2955.4479904174805,
+            "profit": 64.56400144100189,
+            "countcustomer": 13
+        },
+        {
+            "orderdate": "2021-12-19T00:00:00.000Z",
+            "subcategory": "Supplies",
+            "sale": 2405.4679679870605,
+            "profit": 73.09780025482178,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-12-19T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 2409.886001586914,
+            "profit": -321.87239837646484,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2021-12-26T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 3630,
+            "profit": 1820,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2021-12-26T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 210.30800199508667,
+            "profit": 114.53940004110336,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2021-12-26T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 924.4299992322922,
+            "profit": 652.2921001911163,
+            "countcustomer": 7
+        },
+        {
+            "orderdate": "2021-12-26T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 2221.6459884643555,
+            "profit": 441.6379933357239,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2021-12-26T00:00:00.000Z",
+            "subcategory": "Fasteners",
+            "sale": 28.654000520706177,
+            "profit": 11.95390009880066,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2021-12-26T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 187.90800189971924,
+            "profit": 57.189998269081116,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2021-12-26T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 280.01199674606323,
+            "profit": 148.19319808483124,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2021-12-26T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 5604.388000488281,
+            "profit": 2684.382598876953,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2021-12-26T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 14733.713989257812,
+            "profit": 6318.869699478149,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2021-12-26T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 10450,
+            "profit": -5920,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-01-02T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 500,
+            "profit": 220,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-01-02T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 310,
+            "profit": 180,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-01-02T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 430,
+            "profit": 240,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-01-02T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 3680,
+            "profit": 3360,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-01-02T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 7860,
+            "profit": 7700,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-01-02T00:00:00.000Z",
+            "subcategory": "Machines",
+            "sale": 5970,
+            "profit": 1000,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-01-02T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 3169.4400005340576,
+            "profit": 2209.331199645996,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-01-02T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 4560,
+            "profit": 2820,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-01-09T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 580,
+            "profit": -2920,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-01-09T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 109.89999961853027,
+            "profit": 66.56699991226196,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-01-09T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 10,
+            "profit": -20,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-01-09T00:00:00.000Z",
+            "subcategory": "Bookcases",
+            "sale": 395.95899200439453,
+            "profit": -49.35619878768921,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-01-09T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 545.9400024414062,
+            "profit": 87.35040283203125,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-01-09T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 90,
+            "profit": 80,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-01-09T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 1325.8499755859375,
+            "profit": 238.6529998779297,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-01-16T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 312.5800018310547,
+            "profit": 100.06799650192261,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-01-16T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 43.91999816894531,
+            "profit": 12.736800193786621,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-01-16T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 81.09000015258789,
+            "profit": -1.3975000381469727,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-01-16T00:00:00.000Z",
+            "subcategory": "Bookcases",
+            "sale": 181.47000122070312,
+            "profit": -320.59698486328125,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-01-16T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 710,
+            "profit": -20,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-01-16T00:00:00.000Z",
+            "subcategory": "Envelopes",
+            "sale": 108.72000122070312,
+            "profit": 36.69300079345703,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-01-16T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 396.9700012207031,
+            "profit": -79.3257007598877,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-01-16T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 135.42399978637695,
+            "profit": 88.91520023345947,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-01-16T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 780.560001373291,
+            "profit": 200.0334005355835,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-01-23T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 910,
+            "profit": 240,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-01-23T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 350,
+            "profit": 140,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-01-23T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 76.43999862670898,
+            "profit": 12.025199890136719,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-01-23T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 133.92799997329712,
+            "profit": 81.32570004463196,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-01-23T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 75.23999977111816,
+            "profit": 35.2529993057251,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-01-23T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 36.1200008392334,
+            "profit": 17.671199798583984,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-01-23T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 563.3300018310547,
+            "profit": 72.6343994140625,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-01-23T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 547.1500129699707,
+            "profit": 14.307499885559082,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-01-23T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 333,
+            "profit": -16.649999618530273,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-01-30T00:00:00.000Z",
+            "subcategory": "Bookcases",
+            "sale": 290.6659851074219,
+            "profit": 3.419600009918213,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-01-30T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 260,
+            "profit": 260,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-01-30T00:00:00.000Z",
+            "subcategory": "Machines",
+            "sale": 14400,
+            "profit": -5280,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-01-30T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 510.5600004196167,
+            "profit": 384.7519998550415,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-01-30T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 3680,
+            "profit": 460,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-01-30T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 3529.9400024414062,
+            "profit": 1726.8982000350952,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-02-06T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 234.4499969482422,
+            "profit": 103.15799713134766,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-02-06T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 17.459999084472656,
+            "profit": 8.206199645996094,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-02-06T00:00:00.000Z",
+            "subcategory": "Bookcases",
+            "sale": 1460,
+            "profit": 460,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-02-06T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 150,
+            "profit": 140,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-02-06T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 1256.219970703125,
+            "profit": 75.37319946289062,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-02-13T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 10310,
+            "profit": 5840,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-02-13T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 4630,
+            "profit": 1960,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-02-13T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 1405.159999847412,
+            "profit": 908.6780004501343,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-02-13T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 16.176000595092773,
+            "profit": 6.065999984741211,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-02-13T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 380,
+            "profit": 220,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-02-13T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 2000,
+            "profit": 260,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-02-20T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 62.310001373291016,
+            "profit": 22.43160057067871,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-02-20T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 100,
+            "profit": 40,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-02-20T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 13.278000354766846,
+            "profit": -20.580899715423584,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-02-20T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 8660,
+            "profit": 4500,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-02-20T00:00:00.000Z",
+            "subcategory": "Envelopes",
+            "sale": 150,
+            "profit": 140,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-02-20T00:00:00.000Z",
+            "subcategory": "Fasteners",
+            "sale": 350,
+            "profit": 340,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-02-20T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 20.31999969482422,
+            "profit": 6.90880012512207,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-02-20T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 6.935999870300293,
+            "profit": 2.34089994430542,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-02-20T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 2005.6719989776611,
+            "profit": 1378.7892999649048,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-02-20T00:00:00.000Z",
+            "subcategory": "Supplies",
+            "sale": 370,
+            "profit": 220,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-02-27T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 24270,
+            "profit": 18940,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-02-27T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 130,
+            "profit": 80,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-02-27T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 625.5520000457764,
+            "profit": 362.332799911499,
+            "countcustomer": 7
+        },
+        {
+            "orderdate": "2022-02-27T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 1090,
+            "profit": -1040,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-02-27T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 13454.116027832031,
+            "profit": 4107.882797241211,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-02-27T00:00:00.000Z",
+            "subcategory": "Envelopes",
+            "sale": 251.35999965667725,
+            "profit": 185.33920001983643,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-02-27T00:00:00.000Z",
+            "subcategory": "Fasteners",
+            "sale": 80,
+            "profit": 60,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-02-27T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 270,
+            "profit": 140,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-02-27T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 660,
+            "profit": 540,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-02-27T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 343.8720016479492,
+            "profit": 263.15040016174316,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-02-27T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 17465.94000005722,
+            "profit": 9641.603800058365,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-02-27T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 4710,
+            "profit": 2020,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2022-02-27T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 17430,
+            "profit": -7820,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-03-06T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 7650,
+            "profit": 3080,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-03-06T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 580,
+            "profit": 440,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-03-06T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 151.10799980163574,
+            "profit": 54.02079963684082,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-03-06T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 557.6480026245117,
+            "profit": 253.63999938964844,
+            "countcustomer": 6
+        },
+        {
+            "orderdate": "2022-03-06T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 5078.712001800537,
+            "profit": -414.5198998451233,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-03-06T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 1080,
+            "profit": 260,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-03-06T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 358.9199981689453,
+            "profit": 289.01399993896484,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-03-06T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 20790,
+            "profit": -7380,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-03-06T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 3739.3480224609375,
+            "profit": 328.94859981536865,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-03-06T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 7660,
+            "profit": -11340,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-03-13T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 253.04000854492188,
+            "profit": 59.8240008354187,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-03-13T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 322.46399974823,
+            "profit": 221.33559998869896,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2022-03-13T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 2548.7060012817383,
+            "profit": 2325.5958003997803,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-03-13T00:00:00.000Z",
+            "subcategory": "Bookcases",
+            "sale": 9028.329956054688,
+            "profit": 4150.4899978637695,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-03-13T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 1139.9200439453125,
+            "profit": 284.9800109863281,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-03-13T00:00:00.000Z",
+            "subcategory": "Envelopes",
+            "sale": 290,
+            "profit": 220,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-03-13T00:00:00.000Z",
+            "subcategory": "Fasteners",
+            "sale": 18.93600082397461,
+            "profit": 5.917500019073486,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-03-13T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 538.1279978752136,
+            "profit": 270.2477995157242,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2022-03-13T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 11.807999610900879,
+            "profit": 3.9851999282836914,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-03-13T00:00:00.000Z",
+            "subcategory": "Machines",
+            "sale": 23459.78045654297,
+            "profit": -1827.5043697357178,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-03-13T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 2502.011993408203,
+            "profit": 2187.157795906067,
+            "countcustomer": 10
+        },
+        {
+            "orderdate": "2022-03-13T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 4995.896026611328,
+            "profit": 817.8429012298584,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2022-03-13T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 1088.5000038146973,
+            "profit": 210.96840012073517,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-03-13T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 3265.2300415039062,
+            "profit": -1124.0238800048828,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-03-20T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 4946.300003051758,
+            "profit": 2748.6190004348755,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2022-03-20T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 1200,
+            "profit": 680,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-03-20T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 76.28000068664551,
+            "profit": 26.51200008392334,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-03-20T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 660,
+            "profit": 480,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-03-20T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 5571.138000488281,
+            "profit": 1769.841796875,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-03-20T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 1790,
+            "profit": 980,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-03-20T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 2579.9119997024536,
+            "profit": 1923.2214000225067,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-03-20T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 2299.2519969940186,
+            "profit": 2194.938000679016,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-03-20T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 1474.7520141601562,
+            "profit": 537.7970008850098,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-03-20T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 656.6719932556152,
+            "profit": 242.03939938545227,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-03-20T00:00:00.000Z",
+            "subcategory": "Supplies",
+            "sale": 46640,
+            "profit": -20980,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-03-27T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 79.98400115966797,
+            "profit": 13.997200012207031,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-03-27T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 207.8799934387207,
+            "profit": 55.1083984375,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-03-27T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 700.1500015258789,
+            "profit": 503.7930006980896,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-03-27T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 2104.4229929447174,
+            "profit": 1336.855497598648,
+            "countcustomer": 7
+        },
+        {
+            "orderdate": "2022-03-27T00:00:00.000Z",
+            "subcategory": "Bookcases",
+            "sale": 205.66600036621094,
+            "profit": -12.097999572753906,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-03-27T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 4510,
+            "profit": 0,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-03-27T00:00:00.000Z",
+            "subcategory": "Envelopes",
+            "sale": 280,
+            "profit": 180,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-03-27T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 1580,
+            "profit": 1140,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-03-27T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 124.4000015258789,
+            "profit": 82.20000076293945,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-03-27T00:00:00.000Z",
+            "subcategory": "Machines",
+            "sale": 3370,
+            "profit": 900,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-03-27T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 1125.840000152588,
+            "profit": 1087.1279997825623,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-03-27T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 1049.9300537109375,
+            "profit": 293.98040771484375,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-03-27T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 15.84000015258789,
+            "profit": 0,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-03-27T00:00:00.000Z",
+            "subcategory": "Supplies",
+            "sale": 20,
+            "profit": 0,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-04-03T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 133.8800048828125,
+            "profit": 45.02540159225464,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-04-03T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 125.27999877929688,
+            "profit": 38.04320049285889,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-04-03T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 18707.18400001526,
+            "profit": 17382.24499988556,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-04-03T00:00:00.000Z",
+            "subcategory": "Bookcases",
+            "sale": 3080,
+            "profit": -280,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-04-03T00:00:00.000Z",
+            "subcategory": "Fasteners",
+            "sale": 52.15999984741211,
+            "profit": -10.996799647808075,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-04-03T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 139.49999952316284,
+            "profit": 33.67579960823059,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-04-03T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 430.57800102233887,
+            "profit": 233.13289833068848,
+            "countcustomer": 9
+        },
+        {
+            "orderdate": "2022-04-03T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 2469.9100131988525,
+            "profit": 282.43660259246826,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-04-03T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 334.27800369262695,
+            "profit": 16.931600093841553,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-04-03T00:00:00.000Z",
+            "subcategory": "Supplies",
+            "sale": 4164.0498046875,
+            "profit": 83.28099822998047,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-04-03T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 9059.470031738281,
+            "profit": -9052.757308959961,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-04-10T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 719.9200134277344,
+            "profit": 123.5879020690918,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-04-10T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 880,
+            "profit": 520,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-04-10T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 1657.6719989776611,
+            "profit": 1509.911299943924,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-04-10T00:00:00.000Z",
+            "subcategory": "Bookcases",
+            "sale": 308.4989929199219,
+            "profit": -18.14699935913086,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-04-10T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 2550,
+            "profit": -360,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-04-10T00:00:00.000Z",
+            "subcategory": "Fasteners",
+            "sale": 6.9120001792907715,
+            "profit": 2.3327999114990234,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-04-10T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 5560,
+            "profit": 3580,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-04-10T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 257.82999992370605,
+            "profit": 183.60179996490479,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-04-10T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 310.3680000305176,
+            "profit": 203.62879991531372,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-04-10T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 2271.8080139160156,
+            "profit": 397.8505859375,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-04-10T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 600,
+            "profit": 120,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-04-17T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 507.9759979248047,
+            "profit": 168.4969997406006,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-04-17T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 1256.5579998493195,
+            "profit": 188.36029994487762,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-04-17T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 7.48799991607666,
+            "profit": -5.241600036621094,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-04-17T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 12499.802032470703,
+            "profit": 1777.7648010253906,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2022-04-17T00:00:00.000Z",
+            "subcategory": "Envelopes",
+            "sale": 149.3520050048828,
+            "profit": 50.40629959106445,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-04-17T00:00:00.000Z",
+            "subcategory": "Fasteners",
+            "sale": 11.619999885559082,
+            "profit": 3.6022000312805176,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-04-17T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 1188.3959980010986,
+            "profit": 462.0297999382019,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2022-04-17T00:00:00.000Z",
+            "subcategory": "Machines",
+            "sale": 287.9679870605469,
+            "profit": 97.18920135498047,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-04-17T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 710,
+            "profit": 500,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-04-17T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 26310,
+            "profit": 8600,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-04-17T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 16614.840000152588,
+            "profit": 1885.6050000190735,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2022-04-17T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 6605.689971923828,
+            "profit": -487.6210021972656,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-04-24T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 4667.790000915527,
+            "profit": -943.7513999938965,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-04-24T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 17290.720001220703,
+            "profit": 10298.508796691895,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-04-24T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 200,
+            "profit": 140,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-04-24T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 1066.2280006408691,
+            "profit": 674.3262004852295,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-04-24T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 3050.8640213012695,
+            "profit": 234.9199924468994,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2022-04-24T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 473.25,
+            "profit": 163.68249893188477,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-04-24T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 506.91200017929077,
+            "profit": 482.50559997558594,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-04-24T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 750,
+            "profit": 680,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-04-24T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 1782.3760070800781,
+            "profit": 377.79700088500977,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-04-24T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 414.58399200439453,
+            "profit": -96.94999992847443,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-05-01T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 1600,
+            "profit": 1080,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-05-01T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 1696.1359996795654,
+            "profit": 301.96019995212555,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-05-01T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 183.14000272750854,
+            "profit": 74.63119983673096,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-05-01T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 147.21199798583984,
+            "profit": -93.57780027389526,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2022-05-01T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 4070.189010620117,
+            "profit": 775.1161031723022,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-05-01T00:00:00.000Z",
+            "subcategory": "Envelopes",
+            "sale": 150,
+            "profit": 140,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-05-01T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 250,
+            "profit": 80,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-05-01T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 365.78000020980835,
+            "profit": 302.71659994125366,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-05-01T00:00:00.000Z",
+            "subcategory": "Machines",
+            "sale": 80000,
+            "profit": -76800,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-05-01T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 1593.9799995422363,
+            "profit": 1455.782199382782,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2022-05-01T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 2945.248001098633,
+            "profit": 843.9591999053955,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-05-01T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 194.25,
+            "profit": -38.849998474121094,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-05-08T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 2549.970001220703,
+            "profit": -667.5105018615723,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-05-08T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 125.90999984741211,
+            "profit": -490.30430030822754,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-05-08T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 850,
+            "profit": -1060,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2022-05-08T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 12489.455993652344,
+            "profit": -2339.0408000946045,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-05-08T00:00:00.000Z",
+            "subcategory": "Envelopes",
+            "sale": 158.1300048828125,
+            "profit": 77.48370361328125,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-05-08T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 970,
+            "profit": 820,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-05-08T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 130.0999994277954,
+            "profit": 74.03499937057495,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-05-08T00:00:00.000Z",
+            "subcategory": "Machines",
+            "sale": 960,
+            "profit": -1280,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-05-08T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 2553.3600006103516,
+            "profit": 1645.612800359726,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2022-05-08T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 6973.599998474121,
+            "profit": -1235.6399998664856,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-05-08T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 7783.25,
+            "profit": -1905.0150003433228,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-05-08T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 700.0560302734375,
+            "profit": -130.01040649414062,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-05-15T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 1330,
+            "profit": 1080,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-05-15T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 279.1600036621094,
+            "profit": 78.16479778289795,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-05-15T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 1590.3600006103516,
+            "profit": 302.4484004974365,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2022-05-15T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 1926.9599838256836,
+            "profit": 1171.7046012878418,
+            "countcustomer": 6
+        },
+        {
+            "orderdate": "2022-05-15T00:00:00.000Z",
+            "subcategory": "Fasteners",
+            "sale": 30,
+            "profit": 20,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-05-15T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 1709.0919952392578,
+            "profit": 723.870600938797,
+            "countcustomer": 6
+        },
+        {
+            "orderdate": "2022-05-15T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 333.8760004043579,
+            "profit": 234.5673999786377,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-05-15T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 320,
+            "profit": 40,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-05-15T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 2660,
+            "profit": 1120,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-05-15T00:00:00.000Z",
+            "subcategory": "Supplies",
+            "sale": 70,
+            "profit": 20,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-05-15T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 2900,
+            "profit": -2200,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-05-22T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 4247.60000038147,
+            "profit": 2922.207999944687,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2022-05-22T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 173.39200019836426,
+            "profit": 103.18059992790222,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-05-22T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 2880,
+            "profit": 2760,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-05-22T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 10355.068008422852,
+            "profit": 3497.3900003433228,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-05-22T00:00:00.000Z",
+            "subcategory": "Fasteners",
+            "sale": 110,
+            "profit": 60,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-05-22T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 17240,
+            "profit": 2660,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2022-05-22T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 3987.6400003433228,
+            "profit": 3326.4299998283386,
+            "countcustomer": 8
+        },
+        {
+            "orderdate": "2022-05-22T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 2728.3379974365234,
+            "profit": -707.6782007217407,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2022-05-22T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 102.6240005493164,
+            "profit": 7.696800231933594,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-05-22T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 20650,
+            "profit": -12400,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-05-29T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 200,
+            "profit": 140,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-05-29T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 3260,
+            "profit": -15240,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-05-29T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 1918.5600004196167,
+            "profit": 1102.6535999774933,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-05-29T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 1090,
+            "profit": 620,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-05-29T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 12430,
+            "profit": 5240,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-05-29T00:00:00.000Z",
+            "subcategory": "Envelopes",
+            "sale": 15.279999732971191,
+            "profit": 7.487199783325195,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-05-29T00:00:00.000Z",
+            "subcategory": "Fasteners",
+            "sale": 520,
+            "profit": 320,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-05-29T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 112.20000076293945,
+            "profit": -70.89799976348877,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-05-29T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 1203.619999885559,
+            "profit": 1166.1290001869202,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-05-29T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 12261.899993896484,
+            "profit": 2856.4934005737305,
+            "countcustomer": 6
+        },
+        {
+            "orderdate": "2022-05-29T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 11676.940002441406,
+            "profit": 4327.082000732422,
+            "countcustomer": 6
+        },
+        {
+            "orderdate": "2022-05-29T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 355.4549865722656,
+            "profit": -184.8365936279297,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-06-05T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 3330,
+            "profit": 1920,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-06-05T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 610,
+            "profit": 340,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-06-05T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 18.059999465942383,
+            "profit": 4.6956000328063965,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-06-05T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 2145.497005701065,
+            "profit": 1551.4496992230415,
+            "countcustomer": 10
+        },
+        {
+            "orderdate": "2022-06-05T00:00:00.000Z",
+            "subcategory": "Bookcases",
+            "sale": 13370,
+            "profit": 620,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-06-05T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 11265.904006958008,
+            "profit": 4083.841000556946,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2022-06-05T00:00:00.000Z",
+            "subcategory": "Copiers",
+            "sale": 12000,
+            "profit": 8700,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-06-05T00:00:00.000Z",
+            "subcategory": "Envelopes",
+            "sale": 593.9840002059937,
+            "profit": 444.7196002006531,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-06-05T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 4337.400001525879,
+            "profit": 1034.2119998931885,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-06-05T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 380.23999786376953,
+            "profit": 313.8310012817383,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-06-05T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 3141.1559982299805,
+            "profit": 2838.8852005004883,
+            "countcustomer": 11
+        },
+        {
+            "orderdate": "2022-06-05T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 8190,
+            "profit": 1820,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-06-05T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 3690,
+            "profit": 80,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-06-05T00:00:00.000Z",
+            "subcategory": "Supplies",
+            "sale": 17.139999389648438,
+            "profit": 4.456399917602539,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-06-05T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 28000.698974609375,
+            "profit": -476.88670349121094,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-06-12T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 1200,
+            "profit": 1160,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-06-12T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 17710,
+            "profit": 6640,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-06-12T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 455,
+            "profit": 370.5,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-06-12T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 4045.9279747009277,
+            "profit": 1575.909743309021,
+            "countcustomer": 5
+        },
+        {
+            "orderdate": "2022-06-12T00:00:00.000Z",
+            "subcategory": "Bookcases",
+            "sale": 1412.9400024414062,
+            "profit": -202.50619888305664,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-06-12T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 12067.840026855469,
+            "profit": 2832.3919982910156,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-06-12T00:00:00.000Z",
+            "subcategory": "Envelopes",
+            "sale": 41.400001525878906,
+            "profit": 19.45800018310547,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-06-12T00:00:00.000Z",
+            "subcategory": "Fasteners",
+            "sale": 17.899999618530273,
+            "profit": 8.949999809265137,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-06-12T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 196.23999977111816,
+            "profit": 182.62080001831055,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-06-12T00:00:00.000Z",
+            "subcategory": "Machines",
+            "sale": 65.97000122070312,
+            "profit": 31.00589942932129,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-06-12T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 166.54399871826172,
+            "profit": 131.87679958343506,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-06-19T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 182.34400177001953,
+            "profit": 29.870099544525146,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-06-19T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 8854.11600112915,
+            "profit": 4590.751399755478,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-06-19T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 360.9760046005249,
+            "profit": 220.47560095787048,
+            "countcustomer": 6
+        },
+        {
+            "orderdate": "2022-06-19T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 598.6499993801117,
+            "profit": 302.8000011444092,
+            "countcustomer": 6
+        },
+        {
+            "orderdate": "2022-06-19T00:00:00.000Z",
+            "subcategory": "Bookcases",
+            "sale": 2113.0655975341797,
+            "profit": 80.12560081481934,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-06-19T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 1023.9879913330078,
+            "profit": -4.858799934387207,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-06-19T00:00:00.000Z",
+            "subcategory": "Envelopes",
+            "sale": 104.89599990844727,
+            "profit": 68.40240001678467,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-06-19T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 423.9839999675751,
+            "profit": 220.64740002155304,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-06-19T00:00:00.000Z",
+            "subcategory": "Machines",
+            "sale": 625.7909851074219,
+            "profit": -270.2124938964844,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-06-19T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 1706.8499994277954,
+            "profit": 1618.5589995384216,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-06-19T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 5201.145935058594,
+            "profit": 2117.757384300232,
+            "countcustomer": 6
+        },
+        {
+            "orderdate": "2022-06-19T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 11173.238006591797,
+            "profit": 5682.344398498535,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-06-19T00:00:00.000Z",
+            "subcategory": "Supplies",
+            "sale": 703.1040000915527,
+            "profit": 400.3492000102997,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-06-26T00:00:00.000Z",
+            "subcategory": "Accessories",
+            "sale": 223.9600067138672,
+            "profit": 53.75040054321289,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-06-26T00:00:00.000Z",
+            "subcategory": "Appliances",
+            "sale": 2090,
+            "profit": 1140,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-06-26T00:00:00.000Z",
+            "subcategory": "Art",
+            "sale": 314.24800157546997,
+            "profit": 74.91200006008148,
+            "countcustomer": 4
+        },
+        {
+            "orderdate": "2022-06-26T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 1226.6080000400543,
+            "profit": 845.7120001912117,
+            "countcustomer": 6
+        },
+        {
+            "orderdate": "2022-06-26T00:00:00.000Z",
+            "subcategory": "Bookcases",
+            "sale": 4020,
+            "profit": 0,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-06-26T00:00:00.000Z",
+            "subcategory": "Chairs",
+            "sale": 3940,
+            "profit": -880,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-06-26T00:00:00.000Z",
+            "subcategory": "Fasteners",
+            "sale": 167.39200019836426,
+            "profit": 130.23280000686646,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-06-26T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 720,
+            "profit": 700,
+            "countcustomer": 1
+        },
+        {
+            "orderdate": "2022-06-26T00:00:00.000Z",
+            "subcategory": "Paper",
+            "sale": 475.92000007629395,
+            "profit": 429.0719995498657,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-06-26T00:00:00.000Z",
+            "subcategory": "Phones",
+            "sale": 4080,
+            "profit": 600,
+            "countcustomer": 3
+        },
+        {
+            "orderdate": "2022-06-26T00:00:00.000Z",
+            "subcategory": "Jaspal",
+            "sale": 7566.200012207031,
+            "profit": 4200,
+            "countcustomer": 2
+        },
+        {
+            "orderdate": "2022-06-26T00:00:00.000Z",
+            "subcategory": "Tables",
+            "sale": 85.9800033569336,
+            "profit": 22.354799270629883,
+            "countcustomer": 1
+        }
+    ]
+}
